@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Naina Johari <naina.johari379@webkul.com> <k.naina88@gmail.com>
+MAINTAINER Naina Johari <naina.johari379@webkul.com> 
 
 # Update existing packages & install LAMPSTACK
 RUN apt-get update  
