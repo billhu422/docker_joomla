@@ -1,3 +1,9 @@
+# Docker_Joomla
+
+Pull Image from DockerHub :-
+
+docker pull webkul/joomla
+
 Run a container of this image using the following command :-
 
 "docker run -d -p 80:80 -p 3306:3306 webkul/joomla:latest"
